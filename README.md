@@ -28,7 +28,7 @@ Each chapter of the book is for a separate project. Therefore there are 9
 projects for the 9 chapters (remember that Chapter 9 is an online chapter that
 can be downloaded from "http://www.packtpub.com/cool-projects-with-opencv/book").
 You can run each project separately, they each contain a README.md text file
-describing how to build that project, using CMake in most cases, because CMake
+describing how to build that project, using CMake in most cases, because of CMake
 can be used with many compilers and many operating systems.
 
 
@@ -58,7 +58,7 @@ patterns, because "Mastering OpenCV with Practical Computer Vision Projects" wil
 show you how to solve real problems, assuming you are already familiar with the
 basics of OpenCV and C/C++ development.
 
-In addition to C/C++ and OpenCV experience, you will also need a computer, and an
+In addition to C/C++ and OpenCV experience, you will also need a computer and an
 IDE of your choice (such as Visual Studio, XCode, Eclipse, or QtCreator, running
 on Windows, Mac or Linux). Some chapters have further requirements, particularly:
 
@@ -68,16 +68,14 @@ on Windows, Mac or Linux). Some chapters have further requirements, particularly
   iOS development tools (including an Apple computer, XCode IDE, and an Apple
   Developer Certificate), and basic iOS and Objective-C development experience.
 - Several desktop projects require a webcam connected to your computer. Any
-  common USB webcam should suffice, but a webcam of at least 1 megapixel may be
-  desirable.
+  common USB webcam should suffice, but a webcam of at least 1 megapixel may be desirable.
 - CMake is used in most projects, including OpenCV itself, to build across
-  operating systems and compilers. A basic understanding of build systems is
-  required, and knowledge of cross-platform building is recommended.
+  operating systems and compilers. A basic understanding of build systems is required, and knowledge of cross-platform building is recommended.
 - An understanding of linear algebra is expected, such as basic vector and matrix
-  operations and eigen decomposition.
+  operations and eigendecomposition.
 
 Per-chapter Requirements:
-- Ch1: webcam (for desktop app), or Android development system (for Android app).
+- Ch1: webcam (for a desktop app), or Android development system (for Android app).
 - Ch2: iOS development system (to build an iOS app).
 - Ch3: OpenGL built into OpenCV.
 - Ch4: PCL (http://pointclouds.org/) and SSBA (http://www.inf.ethz.ch/personal/chzach/opensource.html).
@@ -93,7 +91,7 @@ Screenshots:
 --------------------------------------------------------------------------------
 - Ch1) Cartoonifier and Skin Changer for Android:
 ![Ch1) Cartoonifier and Skin Changer for Android](https://raw.github.com/MasteringOpenCV/code/master/Chapter1_AndroidCartoonifier/screenshot.png)
-- Ch2) Marker-based Augmented Reality on iPhone or iPad:
+- Ch2) Marker-based Augmented Reality on the iPhone or iPad:
 ![Ch2) Marker-based Augmented Reality on iPhone or iPad](https://raw.github.com/MasteringOpenCV/code/master/Chapter2_iPhoneAR/screenshot.png)
 - Ch3) Marker-less Augmented Reality:
 ![Ch3) Marker-less Augmented Reality](https://raw.github.com/MasteringOpenCV/code/master/Chapter3_MarkerlessAR/screenshot.png)
